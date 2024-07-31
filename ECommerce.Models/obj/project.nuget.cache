@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u6hf+hGanr4=",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\Final Project\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
